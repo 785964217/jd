@@ -1,0 +1,76 @@
+{
+    "title":"时尚达人",
+    "list":[
+        {
+            "title":"运动户外",
+            "tag":"玩所未玩",
+            "largeImg":"//img14.360buyimg.com/babel/s350x180_jfs/t1/2882/22/6978/66609/5ba484dfEeccc826f/a1fa7d1b1fb91116.jpg!q90!cc_350x180",
+            "middle":[
+                "//img12.360buyimg.com/babel/s170x180_jfs/t26215/165/271291592/88858/93a30c5c/5b8cfd18Nc87649d3.jpg!q90!cc_170x180",
+                "//img20.360buyimg.com/babel/s170x180_jfs/t1/4606/3/6757/80448/5ba33830E7a3f32fb/8e554fa6876d57af.jpg!q90!cc_170x180"
+            ]
+        },
+        {
+            "title":"魅力装扮",
+            "tag":"精致生活",
+            "largeImg":"//img30.360buyimg.com/babel/s350x180_jfs/t24520/189/521738463/62534/6e2b5f41/5b343182N43cd5ece.jpg!q90!cc_350x180",
+            "middle":[
+                "//img10.360buyimg.com/babel/s170x180_jfs/t22567/296/493356485/51032/d09111d3/5b31fa79Ne8d0643c.jpg!q90!cc_170x180",
+                "//img30.360buyimg.com/babel/s170x180_jfs/t26050/163/827798784/67428/73766733/5b7d2757N70e590fa.jpg!q90!cc_170x180"
+            ]
+        },
+        {
+            "url":"//img11.360buyimg.com/babel/s340x420_jfs/t1/3840/40/9849/121481/5bad9f6dEd137045e/bb63b03ccc919ed1.jpg!q90!cc_340x420"
+        },
+        {
+            "url":"//img30.360buyimg.com/babel/s340x420_jfs/t1/698/21/9549/119651/5bac9650Efae0ffb7/a299b58eece2ba65.jpg!q90!cc_340x420"
+        },
+        {
+            "title":[
+                "奢华香氛 · ",
+                "商务型男 · "
+            ],
+            "tag":[
+                "初闻定情",
+                "精英男人穿搭"
+            ],
+            "middle":[
+                "//img20.360buyimg.com/babel/s130x130_jfs/t1/55/16/9815/171223/5baa46c8E94588cde/d26df4fbef650826.jpg!q90!cc_130x130",
+                "//img12.360buyimg.com/babel/s130x130_jfs/t22495/121/1720031698/153420/dc45c20c/5b685898N679413cb.jpg!q90!cc_130x130"
+            ]
+        },{
+            "logo":"//img30.360buyimg.com/cms/s130x45_jfs/t22195/294/1247315231/4856/b49e3a98/5b233f06Nd458e173.jpg!q90",
+            "title":"COACH京东自营店",
+            "largeImg":"//img11.360buyimg.com/babel/s350x226_jfs/t17446/249/1605898002/128268/c4f323d1/5ad07e29Nb97345cc.jpg!q90!cr_558x360_385_0",
+            "middle":[
+                "//img30.360buyimg.com/mobilecms/s100x100_jfs/t6199/25/524942449/111618/4fc009a/594092a2Nfaf2424b.jpg!q90!cc_100x100.webp",
+                "//img13.360buyimg.com/mobilecms/s100x100_jfs/t6115/231/4776014566/256685/ea1df2b4/5966c8e5N390acb7c.jpg!q90!cc_100x100.webp",
+                "//img12.360buyimg.com/mobilecms/s100x100_jfs/t21466/184/499517791/157649/9707ef3a/5b0f7378N2481fbee.jpg!q90!cc_100x100.webp"
+            ]
+
+        }
+        ,{
+            "title":"京东服饰",
+            "tag":"尽享时尚生活",
+            "largeImg":"//img30.360buyimg.com/babel/s350x250_jfs/t1/1881/22/8487/36556/5ba9cfb7E27c00a94/051ae4dca4669ed6.jpg!q90!cc_350x250",
+            "middle":[
+                "//img12.360buyimg.com/babel/s110x110_jfs/t1/1894/9/8704/16874/5ba9d16dEfdf61e90/1a2a09b77957eb91.jpg!q90!cc_110x110.webp",
+                "//img11.360buyimg.com/babel/s110x110_jfs/t1/696/30/8754/33250/5ba9d57aE5161e704/32c415d4c9e8a2a0.jpg!q90!cc_110x110.webp",
+                "//img13.360buyimg.com/babel/s110x110_jfs/t1/255/16/8890/21534/5ba9d40fEa44dd83d/ed6b11d2b2bcec2b.jpg!q90!cc_110x110.webp"
+            ]
+        },{
+            "title":"我型我塑",
+            "tag":"时尚有我 品质衣橱",
+            "largeImg":"//img10.360buyimg.com/babel/s350x180_jfs/t1/741/13/3487/152962/5b98d244E787dad9d/9d6af39cc898134a.png!q90!cc_350x180",
+            "middle":[
+                "//img10.360buyimg.com/babel/s170x180_jfs/t1/2683/12/8631/71569/5ba9f562Eab70d1cf/f39c5576344c2f2d.jpg!q90!cc_170x180",
+                "//img10.360buyimg.com/babel/s170x180_jfs/t1/5414/23/7068/54847/5ba49cf0E701f6f90/fde9e8202a644537.jpg!q90!cc_170x180"
+            ]
+        },{
+            "img":[
+                "//img10.360buyimg.com/da/s340x200_jfs/t14248/143/529593217/162629/e19f8e1/5a2f8f79Ndc3104c2.jpg!q90!cc_340x200",
+                "//img13.360buyimg.com/da/s340x200_jfs/t10660/76/2221688794/128277/e077540/59f2a0d6N2e3f2c11.jpg!q90!cc_340x200"
+            ]
+        }
+    ]
+}
